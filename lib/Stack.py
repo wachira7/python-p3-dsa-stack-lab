@@ -50,7 +50,10 @@ class Stack:
 
 
 
-# For my knowledge:
+
+
+
+# For my reference:
 
 """line self.items[::-1].index(target):
 
